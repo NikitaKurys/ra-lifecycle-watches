@@ -28,4 +28,4 @@
 ---
 
 
-[![Build status](https://ci.appveyor.com/api/projects/status/mln9t3h6297w7e6h/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-lifecycle-watches/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/6lx029k67uds3xkm/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-lifecycle-watches/branch/main)
