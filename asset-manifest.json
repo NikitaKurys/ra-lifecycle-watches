@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-lifecycle-watches/static/css/main.8acc03e2.css",
+    "main.js": "/ra-lifecycle-watches/static/js/main.ec2ebba9.js",
+    "static/js/787.222e0e58.chunk.js": "/ra-lifecycle-watches/static/js/787.222e0e58.chunk.js",
+    "index.html": "/ra-lifecycle-watches/index.html",
+    "main.8acc03e2.css.map": "/ra-lifecycle-watches/static/css/main.8acc03e2.css.map",
+    "main.ec2ebba9.js.map": "/ra-lifecycle-watches/static/js/main.ec2ebba9.js.map",
+    "787.222e0e58.chunk.js.map": "/ra-lifecycle-watches/static/js/787.222e0e58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8acc03e2.css",
+    "static/js/main.ec2ebba9.js"
+  ]
+}
